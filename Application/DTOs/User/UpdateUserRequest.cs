@@ -1,0 +1,13 @@
+using System;
+
+namespace Application.DTOs.User
+{
+    public class UpdateUserRequest
+    {
+        public int UserId { get; set; }
+        public string UserName { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+        public bool Active { get; set; }
+        public string Role { get; set; } = string.Empty;
+    }
+}

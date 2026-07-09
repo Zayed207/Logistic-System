@@ -1,0 +1,562 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB32362-1B7E-40D4-BAEE-8E46EBCA6284}|Application\\Application.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\application\\dtos\\client\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB32362-1B7E-40D4-BAEE-8E46EBCA6284}|Application\\Application.csproj|solutionrelative:application\\dtos\\client\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB32362-1B7E-40D4-BAEE-8E46EBCA6284}|Application\\Application.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\application\\interfaces\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB32362-1B7E-40D4-BAEE-8E46EBCA6284}|Application\\Application.csproj|solutionrelative:application\\interfaces\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\shipmentpackageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\shipmentpackageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\shipmentpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\shipmentpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\logisticdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\logisticdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\vehicleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\vehicleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\statehistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\statehistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\shipmentrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\shipmentrequestconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\shipmentassignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\shipmentassignmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\shipmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\shipmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\proofdocumentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\proofdocumentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\notificationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\driverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\driverconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\customercontactconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\customercontactconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\configratoins\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configratoins\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\customercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\customercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\proofdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\proofdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\shipmentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\shipmentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\statehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\statehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\domain\\entities\\shipmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3FFEC0-A93A-4A0D-AABE-069BAEACDD24}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\shipmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000CB9D2-3325-4AC1-8057-65693437AA19}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB32362-1B7E-40D4-BAEE-8E46EBCA6284}|Application\\Application.csproj|d:\\onedrive\\desktop\\cv\\portofolio\\logisticsystem\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB32362-1B7E-40D4-BAEE-8E46EBCA6284}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientResponse.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Application\\DTOs\\Client\\ClientResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Client\\ClientResponse.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Application\\DTOs\\Client\\ClientResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\Client\\ClientResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T10:11:45.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:56:21.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Application\\Interfaces\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Services\\INotificationService.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Application\\Interfaces\\Services\\INotificationService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Services\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:53:44.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogisticDbContext.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\LogisticDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LogisticDbContext.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\LogisticDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\LogisticDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:28:05.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\VehicleConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\VehicleConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\VehicleConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\VehicleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:28:00.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\UserConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\UserConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:27:54.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StateHistoryConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\StateHistoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\StateHistoryConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\StateHistoryConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\StateHistoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:27:50.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-07T09:14:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShipmentPackageConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ShipmentPackageConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\ShipmentPackageConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ShipmentPackageConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\ShipmentPackageConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:27:36.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShipmentPackage.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\ShipmentPackage.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ShipmentPackage.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\ShipmentPackage.cs",
+              "RelativeToolTip": "Domain\\Entities\\ShipmentPackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:15:30.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShipmentConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ShipmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\ShipmentConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ShipmentConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\ShipmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:27:30.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProofDocumentConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ProofDocumentConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\ProofDocumentConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ProofDocumentConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\ProofDocumentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:27:24.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShipmentAssignmentConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ShipmentAssignmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\ShipmentAssignmentConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ShipmentAssignmentConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\ShipmentAssignmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:26:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShipmentRequestConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ShipmentRequestConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\ShipmentRequestConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ShipmentRequestConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\ShipmentRequestConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:24:52.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\NotificationConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\NotificationConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\NotificationConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\NotificationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:26:57.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DriverConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\DriverConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\DriverConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\DriverConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\DriverConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:26:55.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerContactConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\CustomerContactConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\CustomerContactConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\CustomerContactConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\CustomerContactConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:26:50.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientConfiguration.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ClientConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configratoins\\ClientConfiguration.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Configratoins\\ClientConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configratoins\\ClientConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:27:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Shipment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Shipment.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Shipment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Shipment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:15:15.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProofDocument.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\ProofDocument.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ProofDocument.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\ProofDocument.cs",
+              "RelativeToolTip": "Domain\\Entities\\ProofDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:13:58.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Notification.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:13:57.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Driver.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Driver.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Driver.cs",
+              "RelativeToolTip": "Domain\\Entities\\Driver.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:13:56.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerContact.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\CustomerContact.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CustomerContact.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\CustomerContact.cs",
+              "RelativeToolTip": "Domain\\Entities\\CustomerContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:13:55.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Client.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "Domain\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:12:44.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:13:02.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:07:22.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShipmentAssignment.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\ShipmentAssignment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ShipmentAssignment.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\ShipmentAssignment.cs",
+              "RelativeToolTip": "Domain\\Entities\\ShipmentAssignment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:15:22.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:14:01.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "Domain\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:16:00.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StateHistory.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\StateHistory.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\StateHistory.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\StateHistory.cs",
+              "RelativeToolTip": "Domain\\Entities\\StateHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:15:47.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShipmentRequest.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\ShipmentRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ShipmentRequest.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Domain\\Entities\\ShipmentRequest.cs",
+              "RelativeToolTip": "Domain\\Entities\\ShipmentRequest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:15:39.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:07:42.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CV\\Portofolio\\LogisticSystem\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T09:06:59.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

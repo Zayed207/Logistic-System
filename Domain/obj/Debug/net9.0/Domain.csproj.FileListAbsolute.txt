@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\bin\Debug\net9.0\Domain.dll
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\bin\Debug\net9.0\Domain.pdb
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.dll
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.pdb
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\ref\Domain.dll
