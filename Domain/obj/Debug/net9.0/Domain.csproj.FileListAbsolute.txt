@@ -5,6 +5,7 @@ D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.
 D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
 D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
 D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.sourcelink.json
 D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.dll
 D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\refint\Domain.dll
 D:\OneDrive\Desktop\CV\Portofolio\LogisticSystem\Domain\obj\Debug\net9.0\Domain.pdb
